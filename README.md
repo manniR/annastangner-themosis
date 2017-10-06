@@ -1,1 +1,2 @@
-# Anna Stanger - Portfolio - Themosis based Wordpress Theme
+# Anna Stanger - Portfolio 
+Themosis based Wordpress Theme
